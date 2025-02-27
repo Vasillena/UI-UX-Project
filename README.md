@@ -9,6 +9,15 @@ Go Clean UI/UX
 This was my UI/UX exam project. Built with Figma.
   <br/>
 https://www.behance.net/gallery/213210699/GoClean
+  <br/>
+    <br/>
+UX:
+  <br/>
+https://www.figma.com/design/4TrtfLov6ZC1i6DjSiObxe/GoClean-UX?node-id=148-2142&t=luFTnkABrVGr8Vd7-1
+  <br/>
+  UI:
+    <br/>
+    https://www.figma.com/design/mmr4pr6als2fnOCMN9v5qk/GoClean-UI?node-id=1-211&t=8PLa0An4OAkMLWuq-1
 
   
 ## 📷 Screenshots
